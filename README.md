@@ -1,8 +1,8 @@
 # Welcome 🌸
 
 ### 📫 How to reach me: 
-- * **Email**: [`limeilinda@gmail.com`](mailto:limeilinda@gmail.com)
-- * **LinkedIn**: [`https://www.linkedin.com/in/limeilinda/`](https://www.linkedin.com/in/limeilinda/)
+- **Email**: [`limeilinda@gmail.com`](mailto:limeilinda@gmail.com)
+- **LinkedIn**: [`https://www.linkedin.com/in/limeilinda/`](https://www.linkedin.com/in/limeilinda/)
 
 
 ## 🔭 I’m currently working on my passion project StockTrax 📈
