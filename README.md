@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome 🌸
+
+### Contacts
+* **Email**: [`limeilinda@gmail.com`](mailto:limeilinda@gmail.com)
+* **LinkedIn**: [`https://www.linkedin.com/in/limeilinda/`](https://www.linkedin.com/in/limeilinda/)
+
+
+### 🔭 I’m currently working on my passion project StockTrax 📈
+# StockTrax is a web application that allows the user to create a theoretical investment portfolio to track performance against EOD data without spending real money
+
 
 <!--
 **limeilinda/limeilinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
