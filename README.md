@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Linda's GitHub stats](https://github-readme-stats.vercel.app/api?username=limeilinda&show_icons=true&theme=radical)
+![Linda's GitHub stats](https://github-readme-stats.vercel.app/api?username=limeilinda&show_icons=true&theme=dracula)
