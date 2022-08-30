@@ -5,7 +5,7 @@
 - **LinkedIn**: [`https://www.linkedin.com/in/limeilinda/`](https://www.linkedin.com/in/limeilinda/)
 
 
-## 💡 I’m currently working on my passion project StockTrax 📈
+## 💡 I’m currently working on my group project MOC News 📰 and passion project StockTrax 📈
 
 <!--
 **limeilinda/limeilinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Linda's GitHub stats](https://github-readme-stats.vercel.app/api?username=limeilinda)](https://github.com/limeilinda/github-readme-stats)
