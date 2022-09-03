@@ -6,8 +6,8 @@
 
 
 ## 💡 I’m currently working on:
-- Group project **MOC News**, a news article web app 📰 
-- Individual project **StockTrax**, a stock tracking web app 📈 
+- Group project [**MOC News**](https://github.com/orgs/ZCW-MOC-News/repositories), a news article web app 📰 
+- Individual project [**StockTrax**](https://github.com/limeilinda/StockTrax), a stock tracking web app 📈 
 
 <!--
 **limeilinda/limeilinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
