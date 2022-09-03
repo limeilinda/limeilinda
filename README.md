@@ -5,7 +5,9 @@
 - **LinkedIn**: [`https://www.linkedin.com/in/limeilinda/`](https://www.linkedin.com/in/limeilinda/)
 
 
-## 💡 I’m currently working on my group project MOC News and passion project StockTrax
+## 💡 I’m currently working on:
+- Group project MOC News 📰
+- Individual project StockTrax 📈
 
 <!--
 **limeilinda/limeilinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
